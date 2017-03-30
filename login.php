@@ -1,4 +1,5 @@
 <?php
+//rizal
 include "config/koneksi.php";
 $pass=md5($_POST[password]);
 
